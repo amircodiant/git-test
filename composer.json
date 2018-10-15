@@ -1,0 +1,12 @@
+{
+    "name": "amircodiant/my-manager",
+    "description": "used to create costomer employee relation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "amircodiant",
+            "email": "amira@neuronsolutions.com"
+        }
+    ],
+    "require": {}
+}
