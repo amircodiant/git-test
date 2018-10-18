@@ -8,5 +8,7 @@
             "email": "amira@neuronsolutions.com"
         }
     ],
-    "require": {}
+    "require": {
+        "webonyx/graphql-php": "^0.12.6"
+    }
 }
