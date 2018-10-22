@@ -21,6 +21,14 @@ try {
                     return $root['prefix'] . $args['message'];
                 }
             ],
+            'user' => [
+                'type' => Type::string(),
+                'resolve' => function($root){
+                    return 'user';
+                }
+            ]    
+
+
         ],
     ]);
     $mutationType = new ObjectType([
